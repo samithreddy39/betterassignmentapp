@@ -1,7 +1,7 @@
 # Better Assignment Mobile App
 
 ## Description
-built a mobile application using React Native with two forms: Sign Up and Login, using Formik (or similar library) for form handling and validation. Ensure the code follows clean coding principles, uses TypeScript, and adheres to good user experience (UX) practices. Display success messages upon successful submission (e.g., "Sign Up Successful" or "Login Successful").
+To build a mobile application using React Native with two forms: Sign Up and Login, using Formik (or similar library) for form handling and validation. Ensure the code follows clean coding principles, uses TypeScript, and adheres to good user experience (UX) practices. Display success messages upon successful submission (e.g., "Sign Up Successful" or "Login Successful").
 
 1. Implemented a "Remember Me" checkbox for the Login form and save the email to local storage.
 2. Shows a password strength indicator in the Sign Up form.
