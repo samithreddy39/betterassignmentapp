@@ -1,12 +1,15 @@
 # Better Assignment Mobile App
 
 ## Description
-This is a mobile application designed to manage assignments efficiently. The app includes user authentication, sign-up, and login functionality. Users can securely sign up with a username and password, and the app stores user credentials using AsyncStorage for easy re-login.
+built a mobile application using React Native with two forms: Sign Up and Login, using Formik (or similar library) for form handling and validation. Ensure the code follows clean coding principles, uses TypeScript, and adheres to good user experience (UX) practices. Display success messages upon successful submission (e.g., "Sign Up Successful" or "Login Successful").
+
+1. Implemented a "Remember Me" checkbox for the Login form and save the email to local storage.
+2. Shows a password strength indicator in the Sign Up form.
+3. Added accessibility features (e.g., proper ARIA roles and labels).The app includes user authentication, sign-up, and login functionality. Users can securely sign up with a username and password, and the app stores user credentials using AsyncStorage for easy re-login.
 
 ## How to Run the Project
 
 1. **Clone the repository:**
-   ```bash
    git clone https://github.com/samithreddy39/betterassignmentapp.git
 Navigate to the project folder:
 
@@ -68,19 +71,10 @@ The app does not yet support account recovery for forgotten passwords.
 Video Demo
 You can view the demo video of the app here:
 
-[Insert your video link here]
+[(https://drive.google.com/file/d/1hCdJo0yk6IVFbHsEYfAiQEG3biSM9c7x/view?usp=sharing)]
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-python
-Copy code
-
-### Instructions:
-- Replace `[Insert your video link here]` with the actual URL where your video is hosted.
-
-This markdown file includes all the required sections in a simple format. Let me know if you need anything else!
-
 
 
 
