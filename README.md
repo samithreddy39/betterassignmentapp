@@ -13,27 +13,27 @@ To build a mobile application using React Native with two forms: Sign Up and Log
    git clone https://github.com/samithreddy39/betterassignmentapp.git
 Navigate to the project folder:
 
-bash
+
 Copy code
 cd betterassignmentapp
 Install the dependencies: If you are using npm:
 
-bash
+
 Copy code
 npm install
 Or if you are using yarn:
 
-bash
+
 Copy code
 yarn install
 Run the app: For iOS:
 
-bash
+
 Copy code
 npx react-native run-ios
 For Android:
 
-bash
+
 Copy code
 npx react-native run-android
 Make sure you have the appropriate emulator or a physical device connected.
